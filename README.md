@@ -1,1 +1,0 @@
-# Clase-de-prueba-con-Git-
